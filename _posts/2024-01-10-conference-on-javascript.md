@@ -4,7 +4,7 @@ title: Neuroeconomics
 date: 2024-01-10 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: js-1.png # Add image post (optional)
-tags: [Js, Conference] # add tag
+
 ---
 
 Neuroeconomics is an interdisciplinary field that merges neuroscience, psychology, and economics to understand how the brain works in decision-making processes. The subject has been around for decades, but with the latest improvements in technology, it is poised to make a significant impact in the future. In this blog post, we will explore how neuroeconomics is set to revolutionize the way we approach decision-making and the latest advancements in technology that are driving the field forward.
