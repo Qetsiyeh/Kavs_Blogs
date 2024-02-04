@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dreams, Bees, and Unwavering Love My Journey to LSE
+title: Dreams, Bees, and Unwavering Love - My Journey to LSE
 date: 2024-02-01 00:00:00 +0300
 ---
 Ever since I was a little girl, wandering through the fields of Maniyar, life has been an adventure filled with dreams and learning. It all started with the bees. My dad, a farmer with a passion for bee cultivation, always said, "Look at the bees, they hold the secret to life – hard work and discipline." Little did I know, those tiny creatures were setting the stage for my life's journey.
