@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Chasing the Dream The Flight of Ambition and the Weight of Anxiety
-date: 2024-02-16 00:00:00 +0300
+title: Chasing the Dream
+date: 2024-02-15 00:00:00 +0300
 ---
 
 In the quiet hours of the night, when the world around me falls into a deep slumber, I find myself wide awake, tangled in a web of dreams and fears. It's 11 PM, and the comforting rhythm of my uttu's and baby's breathing fills the room with a sense of peace I find elusive. My dream, as vivid and ambitious as it is, keeps me on the edge, teetering between exhilaration and dread. I aspire to be a flying lecturer, soaring from one destination to another, spreading knowledge on neuroeconomics, a field I am deeply passionate about. Yet, as the night deepens, so does my fear of not being able to fulfill this dream.
