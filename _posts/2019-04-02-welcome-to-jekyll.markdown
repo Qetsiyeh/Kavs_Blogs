@@ -13,7 +13,7 @@ My journey in academia, with two masters and an MPhil in Economics and an ongoin
 
 As someone who cherishes the simplicity of nature and the art of taking things slow, I find my thoughts often wandering to the mysteries of the human mind, the wonders of quantum cognition, and the intriguing interplay between our brains and our reality. These reflections are not just academic interests; they are part of a larger, more personal quest to understand the world around me and within me.
 
-In this space, I embrace my love for poetry, literature, music, and, of course, my adorable cats. They remind me of the beauty and rhythm in the world – a rhythm that's often overlooked in the hustle of life.
+In this space, I embrace my love for drawing, poetry, literature, music, and, of course, my adorable cats. They remind me of the beauty and rhythm in the world – a rhythm that's often overlooked in the hustle of life.
 
 Being a mother to a one-year-old has added a new dimension to my life, teaching me about patience, love, and the profound depths of human connection.
 
